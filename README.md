@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/Ridma2000">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F75FE&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub!;Exploring+the+world+of+code!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F75FE&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub!+;">
+    
   </a>
 </p>
+
 
 ---
 
