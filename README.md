@@ -2,11 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/Ridma2000">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F75FE&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub!+;">
-    
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F75FE&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub!;">
   </a>
 </p>
-
 
 ---
 
@@ -30,8 +28,8 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ridma2000&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ridma2000&theme=tokyonight" />
 </p>
+
 
 ---
 
