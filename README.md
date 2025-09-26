@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 👀 Passionate about **Computer Programming**
+- 👀 Passionate about **Computer Programming and Robotics**
 - 🌱 Currently diving into **Electronics and IT**
 - 💡 Always excited to **collaborate on new projects**
 - 📬 Reach me at: **[ridmajayawardanarc@gmail.com](mailto:ridmajayawardanarc@gmail.com)**
@@ -18,9 +18,9 @@
 ---
 
 ### ⚡ Tech Stack
-💻 **Programming:** Python | Java | C++ | JavaScript  
-⚡ **Technologies:** Arduino | Raspberry Pi | IoT | Web Development  
-🔧 **Tools:** Git | VS Code | Linux | Docker  
+💻 **Programming:** Python | Java | C++ | JavaScript | php | Codeigniter
+⚡ **Technologies:** Arduino | Raspberry Pi | IoT | Web Development | App Development
+🔧 **Tools:** Git | VS Code | Linux | Docker | Cursor 
 
 ---
 
