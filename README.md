@@ -18,9 +18,9 @@
 ---
 
 ### ⚡ Tech Stack
-💻 **Programming:** Python | Java | C++ | JavaScript | php | Codeigniter
-⚡ **Technologies:** Arduino | Raspberry Pi | IoT | Web Development | App Development
-🔧 **Tools:** Git | VS Code | Linux | Docker | Cursor 
+- 💻 **Programming:** Python | Java | C++ | JavaScript | php | Codeigniter
+- ⚡ **Technologies:** Arduino | Raspberry Pi | IoT | Web Development | App Development
+- 🔧 **Tools:** Git | VS Code | Linux | Docker | Cursor 
 
 ---
 
